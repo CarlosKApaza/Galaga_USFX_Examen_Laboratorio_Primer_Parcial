@@ -26,7 +26,7 @@ void AGalaga_USFX_LAB2GameMode::BeginPlay()
 	//Ubicacion inicial de las naves enemigas
 	FVector ubicacionNaveInicial = FVector(-380.0f, -200.0f, 180.0f); //-200 porque quiero que mi primera nave se cree a partir desde el punto medio un poco mas a la izquierda
 	FVector ubicacionNaveActual = ubicacionNaveInicial;
-	UWorld* const World = GetWorld();
+	UWorld* const World = GetWorld(); //
 	if (World != nullptr)
 	{
 		//spawenado las naves de la clase NaveEnemigaCaza con un ciclo
