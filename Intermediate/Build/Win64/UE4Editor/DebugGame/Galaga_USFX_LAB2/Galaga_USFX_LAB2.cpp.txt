@@ -1,0 +1,2 @@
+C:\Users\kevin\Downloads\Galaga_USFX_LAB-master\Galaga_USFX_LAB4-master\Intermediate\Build\Win64\UE4Editor\DebugGame\Galaga_USFX_LAB2\Definitions.Galaga_USFX_LAB2.h
+C:\Users\kevin\Downloads\Galaga_USFX_LAB-master\Galaga_USFX_LAB4-master\Source\Galaga_USFX_LAB2\Galaga_USFX_LAB2.h
